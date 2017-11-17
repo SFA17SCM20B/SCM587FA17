@@ -22,6 +22,7 @@ FFA17SCM25A
 MFA16SCM16A
 UFA17SCM51A
 AFA17SCM84R
+<<<<<<< HEAD
 ======t
 exit
 quit
@@ -29,4 +30,8 @@ quit
 >>>>>>> 179b069224667691b66
 >>>>>>>
 >>>>>>> 20aae9c587ef56963361b
+=======
+AFA17SCM47A
+YFA17SCM72A
+>>>>>>> c9a25ed7e3bb4e41828e90a9037a351a9663bb09
 
